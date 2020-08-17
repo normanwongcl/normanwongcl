@@ -3,6 +3,7 @@
 [<img align="left" alt="banner image of my personal logo" src="https://raw.githubusercontent.com/normanwongcl/normanwongcl/master/banner-image.jpg" />][website]
 
 <br />
+
 [![Website](https://img.shields.io/website?label=normanwongcl.com&style=for-the-badge&url=https%3A%2F%2Fnormanwongcl.com)](https://normanwongcl.com)
 
 ## Here are some points about me:
