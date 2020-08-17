@@ -3,7 +3,7 @@
 [<img alt="banner image of my personal logo" src="https://raw.githubusercontent.com/normanwongcl/normanwongcl/master/banner-image.jpg" />][website]
 <br />
 
-![Website](https://img.shields.io/website?label=normanwongcl.com&style=for-the-badge&url=https%3A%2F%2Fnormanwongcl.com) | ![GitHub - Activity - Readme](https://img.shields.io/github/workflow/status/normanwongcl/normanwongcl/GitHub%20-%20Activity%20-%20Readme?label=%20GitHub%20-%20Activity%20-%20README%20-%20CRON&style=for-the-badge)
+![Website](https://img.shields.io/website?label=normanwongcl.com&style=for-the-badge&url=https%3A%2F%2Fnormanwongcl.com) ![GitHub - Activity - Readme](https://img.shields.io/github/workflow/status/normanwongcl/normanwongcl/GitHub%20-%20Activity%20-%20Readme?label=%20GitHub%20-%20Activity%20-%20README%20-%20CRON&style=for-the-badge)
 
 ## Here are some points about me:
 
