@@ -1,6 +1,8 @@
 ### Hi there, I'm Norman 👋
 
-<img src="https://raw.githubusercontent.com/normanwongcl/normanwongcl/master/banner-image.jpg" alt="banner image of my personal logo">
+[![Website](https://img.shields.io/website?label=normanwongcl.com&style=for-the-badge&url=https%3A%2F%2Fnormanwongcl.com)](https://normanwongcl.com)
+
+<img align="left" alt="banner image of my personal logo"src="https://raw.githubusercontent.com/normanwongcl/normanwongcl/master/banner-image.jpg">
 
 ## Here are some points about me:
 
@@ -10,7 +12,29 @@
 - 💬 Ask me anything related to AWS cloud.
 - 📫 Reach me through my email: <a href = "mailto: nich19032@outlook.com">nich19032@outlook.com</a>
 
-## Find me around the web 🌎:
+### Find me around the web 🌎:
 
-- Personal site: <a href="https://normanwongcl.com">https://normanwongcl.com </a> ⛺️
-- LinkedIn: <a href="https://www.linkedin.com/in/norman-wong-chiew-look/">https://www.linkedin.com/in/norman-wong-chiew-look/</a> 💼
+[<img align="left" alt="normanwongcl.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="normanwongcl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="normanwongcl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=normanwongcl&hide=issues,stars&show_icons=true&count_private=true&hide_border=true" />
+
+</details>
+
+[website]: https://normanwongcl.com
+[linkedin]: https://www.linkedin.com/in/norman-wong-chiew-look
