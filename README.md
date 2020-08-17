@@ -1,7 +1,7 @@
 ### Hi there, I'm Norman 👋
 
 [<img align="left" alt="banner image of my personal logo" src="https://raw.githubusercontent.com/normanwongcl/normanwongcl/master/banner-image.jpg" />][website]
-
+<br>
 [![Website](https://img.shields.io/website?label=normanwongcl.com&style=for-the-badge&url=https%3A%2F%2Fnormanwongcl.com)](https://normanwongcl.com)
 
 ## Here are some points about me:
@@ -12,7 +12,7 @@
 - 💬 Ask me anything related to AWS cloud.
 - 📫 Reach me through my email: <a href = "mailto: nich19032@outlook.com">nich19032@outlook.com</a>
 
-### 🌎 Find me around the web:
+### Find me around the web:
 
 [<img align="left" alt="normanwongcl.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="normanwongcl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
