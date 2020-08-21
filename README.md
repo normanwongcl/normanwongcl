@@ -26,10 +26,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com//normanwongcl/Gatsby-Personal-Website/pull/14) in [normanwongcl/Gatsby-Personal-Website](https://github.com//normanwongcl/Gatsby-Personal-Website)
-2. 💪 Opened PR [#14](https://github.com//normanwongcl/Gatsby-Personal-Website/pull/14) in [normanwongcl/Gatsby-Personal-Website](https://github.com//normanwongcl/Gatsby-Personal-Website)
-3. 🎉 Merged PR [#13](https://github.com//normanwongcl/Gatsby-Personal-Website/pull/13) in [normanwongcl/Gatsby-Personal-Website](https://github.com//normanwongcl/Gatsby-Personal-Website)
-4. 💪 Opened PR [#13](https://github.com//normanwongcl/Gatsby-Personal-Website/pull/13) in [normanwongcl/Gatsby-Personal-Website](https://github.com//normanwongcl/Gatsby-Personal-Website)
+1. 💪 Opened PR [#5](https://github.com//normanwongcl/github-actions-for-ci/pull/5) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
+2. 🎉 Merged PR [#2](https://github.com//normanwongcl/github-actions-for-ci/pull/2) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
+3. 🗣 Commented on [#2](https://github.com//normanwongcl/github-actions-for-ci/issues/2) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
+4. 🎉 Merged PR [#3](https://github.com//normanwongcl/github-actions-for-ci/pull/3) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
 <!--END_SECTION:activity-->
 
 </details>
