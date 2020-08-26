@@ -26,10 +26,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com//normanwongcl/github-actions-for-ci/pull/5) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
-2. 🎉 Merged PR [#2](https://github.com//normanwongcl/github-actions-for-ci/pull/2) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
-3. 🗣 Commented on [#2](https://github.com//normanwongcl/github-actions-for-ci/issues/2) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
-4. 🎉 Merged PR [#3](https://github.com//normanwongcl/github-actions-for-ci/pull/3) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
+1. 🎉 Merged PR [#3](https://github.com//normanwongcl/vehicle-management-api/pull/3) in [normanwongcl/vehicle-management-api](https://github.com//normanwongcl/vehicle-management-api)
+2. 💪 Opened PR [#3](https://github.com//normanwongcl/vehicle-management-api/pull/3) in [normanwongcl/vehicle-management-api](https://github.com//normanwongcl/vehicle-management-api)
+3. 💪 Opened PR [#5](https://github.com//normanwongcl/github-actions-for-ci/pull/5) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
+4. 🎉 Merged PR [#2](https://github.com//normanwongcl/github-actions-for-ci/pull/2) in [normanwongcl/github-actions-for-ci](https://github.com//normanwongcl/github-actions-for-ci)
 <!--END_SECTION:activity-->
 
 </details>
