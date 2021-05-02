@@ -7,9 +7,8 @@
 
 ## Here are some points about me:
 
-- 🌱 I’m currently creating a few portfolios so that I can showcase them to future employers.
-- 🤔 I’m looking for help in the critique of my works. I started out my career in early-stage startups and have been the sole person building out all the "DevOps" process.
-- 👯 I’m looking to collaborate on a team with an established DevOps culture.
+- 🌱 I’m currently developing a Booking / HR Filing system web application for a company.
+- 👯 I'd started out in maintainig software as cloud sysadmin / devops, currently developing software now instead.
 - 💬 Ask me anything related to AWS cloud.
 - 📫 Reach me through my email: <a href = "mailto: nich19032@outlook.com">nich19032@outlook.com</a>
 
