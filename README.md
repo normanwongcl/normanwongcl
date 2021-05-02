@@ -8,7 +8,7 @@
 ## Here are some points about me:
 
 - 🌱 I’m currently developing a Booking / HR Filing system web application for a company.
-- 👯 I'd started out in maintainig software as cloud sysadmin / devops, currently developing software now instead.
+- 👯 I'd started out in maintaining software as cloud sysadmin / devops, currently developing software now instead.
 - 💬 Ask me anything related to AWS cloud.
 - 📫 Reach me through my email: <a href = "mailto: nich19032@outlook.com">nich19032@outlook.com</a>
 
